@@ -1,3 +1,9 @@
+Методы, Модификация кода,Расширение класса "String" выложены на GitHub:
+
+https://github.com/karashchuk/LessonRuby_01.git
+
+
+Типы данных в реальном мире:
 * Туристическоий группы – Fixnum, Array, Hash,Symbol
 * Количества денег на счету в банке – Float
 * Списка книг и их количества, - Hash,Fixnum,Symbol
